@@ -1,0 +1,1 @@
+Olá, esse projeto faz desparos de Whatsapp com Python.
